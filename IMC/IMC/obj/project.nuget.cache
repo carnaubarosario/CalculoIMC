@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpEumCtkNnj/3Af68cDSjr1OClAECcW3Wu+5WEAab6PPQYRAGvEd+SFrH1C0+PsaMqfk5WfQWCq3JHArOUu1Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tccon\\Documents\\Exercícios C#\\IMC\\IMC\\IMC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tccon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

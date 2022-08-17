@@ -1,0 +1,28 @@
+Nome: Lucca
+Idade: 25
+Peso: 82
+Altura: 1,75
+Imc: 27
+Resultado: Paciente esta com sobrepeso
+--------------------------
+Nome: Beatriz
+Idade: 18
+Peso:  72
+Altura: 1,61
+Imc: 28
+Resultado: Paciente esta com sobrepeso
+--------------------------
+Nome: Inaldo
+Idade: 38
+Peso:  110
+Altura: 1,75
+Imc: 36
+Resultado: Paciente esta com obesidade nivel II
+--------------------------
+Nome: Edson Lima
+Idade: 28
+Peso:  75
+Altura: 1,81
+Imc: 23
+Resultado: Paciente esta com peso normal
+--------------------------
